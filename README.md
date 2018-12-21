@@ -2,7 +2,7 @@
 Inventario para carros
 
 # Instalaçao PT
-# clica E para abrir a bagageira
+# Clica E para abrir a bagageira
 # Esta Bagageira nao tem bug de Multiplicaçao
 
 Coloca na Resource/[esx]
