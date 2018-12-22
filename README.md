@@ -1,6 +1,6 @@
 # esx_trunks_inventory
 Inventario para carros
-
+My Discord:https://discord.gg/qmFKfcC
 # Instalaçao PT
 # Clica E para abrir a bagageira
 # Esta Bagageira nao tem bug de Multiplicaçao
